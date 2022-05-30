@@ -1,0 +1,58 @@
+header {
+    background-color: rgb(255, 0, 0);
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align:right;
+    font-size: 20px;  
+}
+a {
+    color: aliceblue;
+}
+
+main {
+ background-color: rgb(255, 255, 255);
+ margin-left: 100px;
+ margin-right: 100px;
+ font-size: 120px;
+ text-align: center;
+
+}
+
+div  {
+    margin-top: 20px;
+    margin-left: 100px; 
+    text-align: center;
+    font-size: 20px;
+    
+}
+
+p {
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+footer {
+
+    background-color: rgb(255, 0, 0);
+    margin-top: 0px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+img {
+    float: right;
+    margin-right: 60px;
+    margin-top: 50px;
+}
+
+footer {
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 40px;
+    
+}
+a:hover {
+    color: black;
+}
+
